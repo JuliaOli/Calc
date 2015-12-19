@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Icon.qml</file>
+        <file>Result.qml</file>
+        <file>Retorno.qml</file>
+        <file>ScreenModel.qml</file>
+        <file>Oper.qml</file>
+        <file>../seta_esq.png</file>
+    </qresource>
+</RCC>
